@@ -1,0 +1,10 @@
+if(true){
+    Console.WriteLine("3");
+}
+else if(true){
+    Console.WriteLine("4");
+}
+else
+{
+    Console.WriteLine("empty");
+}
